@@ -1,1 +1,0 @@
-# Crivo-de-Eratostenes
